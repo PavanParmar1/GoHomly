@@ -70,4 +70,8 @@ Gemfile.lock
 # testing
 /coverage
 android/app/release/app-release.apk
+android/app/release/app-release.aab
 android/app/release/output-metadata.json
+android/app/dev/release/app-dev-release.apk
+android/app/prod/release/app-prod-release.apk
+android/keystore.jks
