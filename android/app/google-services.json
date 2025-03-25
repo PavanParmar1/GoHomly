@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "958096829396",
+    "firebase_url": "https://hapa-9d1da-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hapa-9d1da",
+    "storage_bucket": "hapa-9d1da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958096829396:android:4e306b58cb8a10acbd0441",
+        "android_client_info": {
+          "package_name": "com.hapa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-t5DM92AKxQpQQv31sTDHNYcytvu3HCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

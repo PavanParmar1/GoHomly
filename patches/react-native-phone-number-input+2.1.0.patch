@@ -1,0 +1,29 @@
+diff --git a/node_modules/react-native-phone-number-input/lib/index.js b/node_modules/react-native-phone-number-input/lib/index.js
+index b89c388..7a4e6bc 100644
+--- a/node_modules/react-native-phone-number-input/lib/index.js
++++ b/node_modules/react-native-phone-number-input/lib/index.js
+@@ -18,19 +18,20 @@ export default class PhoneInput extends PureComponent {
+   constructor(props) {
+     super(props);
+     this.state = {
+-      code: props.defaultCode ? undefined : "91",
++      code: props.defaultCode ? props.defaultCode : "44",
+       number: props.value
+         ? props.value
+         : props.defaultValue
+-        ? props.defaultValue
+-        : "",
++          ? props.defaultValue
++          : "",
+       modalVisible: false,
+-      countryCode: props.defaultCode ? props.defaultCode : "IN",
++      countryCode: props.defaultCode ? props.defaultCode : "GB",
+       disabled: props.disabled || false,
+     };
+   }
+ 
+   static getDerivedStateFromProps(nextProps, prevState) {
++    return ({ disabled: nextProps.disabled, number: nextProps.value, code: nextProps.defaultCode ? nextProps.defaultCode : "44", countryCode: nextProps.defaultCode ? nextProps.defaultCode : "GB" });
+     if (nextProps.disabled !== prevState.disabled) {
+       if ((nextProps.value || nextProps.value === "") && nextProps.value !== prevState.number) {
+         return ({ disabled: nextProps.disabled, number: nextProps.value });

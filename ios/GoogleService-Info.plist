@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCdvYGx9UJ7QGkunqzs99JR9vAN2juibKc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>958096829396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qa.hapa</string>
+	<key>PROJECT_ID</key>
+	<string>hapa-9d1da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hapa-9d1da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:958096829396:ios:47db7e570b0abf09bd0441</string>
+	<key>DATABASE_URL</key>
+	<string>https://hapa-9d1da-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

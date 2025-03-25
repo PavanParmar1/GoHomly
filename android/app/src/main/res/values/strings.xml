@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hapa</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC0J9tN2rjaDa68UEubDkxuQwQ655GyIr0</string>
+</resources>

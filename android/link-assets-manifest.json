@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Black.otf",
+      "sha1": "db833153294a98073e2ce303bb275c36ed6b3aa7"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Bold.otf",
+      "sha1": "c55ac1360ea7b44371d311142d29d8721ea6e415"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Heavy.otf",
+      "sha1": "aab124b69b466ec78e2fa09b15724f9a3a6f880a"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Light.otf",
+      "sha1": "e5f8c7f30dad51d3eab79f802a6b08c462c6a90a"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Medium.otf",
+      "sha1": "83e769b4f864a490f47c4f598ce04b4c08bddae3"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Regular.otf",
+      "sha1": "9baa6c43616e342c7aba99a8246a55f4b22cc4cb"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Semibold.otf",
+      "sha1": "a63d55581f465a987fd4d804d2c4c75b277ad943"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Thin.otf",
+      "sha1": "2cf94c535a6ba4f662c1286b3aa258d26ab922ac"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Rounded-Ultralight.otf",
+      "sha1": "5d7b4420539d9f69b0a4507bfec81cb64ed44e9a"
+    },
+    {
+      "path": "assets/fonts/custom-fonts.md",
+      "sha1": "16faf0572766edf945b496c322c7bbce1e4cb955"
+    }
+  ]
+}
